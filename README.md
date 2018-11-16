@@ -7,12 +7,12 @@ Docker image based on node:8.12.0 with [infinality](https://bohoomil.com/) for c
 Andale Mono
 Arial
 Arial Black
+AvantGarde Md BT
 Avenir LT Std,Avenir LT Std 35 Light
 BarMKode
 Black Santa
 C39HrP24DhTt
 C39HrP48DhTt
-calendar note tfb
 Capture it
 Checkpoint Charlie
 Code Bold
@@ -55,7 +55,10 @@ Impact
 Impact Label
 Impact Label Reversed
 Karmatic Arcade
-kindergarten
+League Gothic
+League Gothic,League Gothic Condensed
+League Gothic,League Gothic Condensed Italic
+League Gothic,League Gothic Italic
 Liberation Mono
 Liberation Sans
 Liberation Sans Narrow
@@ -67,9 +70,6 @@ Miller Display Lancome,Miller Display Lancome Roman
 Miller Display,MillerDisplay Light
 MillerDisplay,MillerDisplay Light
 MillerDisplay,MillerDisplay LightItalic
-museosansrounded
-museosansroundedbold
-museosansroundedlight
 Nunito
 OCR A Extended
 Open Sans
@@ -77,30 +77,35 @@ Optima LT CYR
 PartybyTom
 PaybAck
 Plane Crash
-pmu-icofont
 Professor
 Raleway
 Renault Life
 Roboto
 Roboto Condensed
-Scratched Letters
 SFR
 SFR,SFR Black
 SFR,SFR Light
 SFR,SFR Thin
+Scratched Letters
 Snowtop Caps
 Tahoma
-Times New Roman
 TimeToParty
+Times New Roman
 TinyShack
 Top Secret
 Trebuchet MS
-vandervon
 Verdana
-vuitton
 Weather Icons
 Webdings
 Woodcutter Tags on a Rope
+calendar note tfb
+kindergarten
+museosansrounded
+museosansroundedbold
+museosansroundedlight
+pmu-icofont
+vandervon
+vuitton
 
 This list is generated with:
 
