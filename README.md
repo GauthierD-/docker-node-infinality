@@ -10,6 +10,7 @@ Arial Black
 AvantGarde Md BT
 Avenir LT Std,Avenir LT Std 35 Light
 BarMKode
+Beauty
 Black Santa
 C39HrP24DhTt
 C39HrP48DhTt
@@ -29,6 +30,7 @@ Dock 51
 Double Feature
 Dynamix
 Edo SZ
+Faradisa Script
 Futura
 Futura T
 Gang of Three
@@ -89,6 +91,7 @@ SFR,SFR Thin
 Scratched Letters
 Snowtop Caps
 Tahoma
+Tahu!
 TimeToParty
 Times New Roman
 TinyShack
