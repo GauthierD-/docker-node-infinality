@@ -53,6 +53,7 @@ Gotham,Gotham Ultra
 HappinessBeta
 HappinessScripte
 HappinessV1
+Hickory Jack
 Impact
 Impact Label
 Impact Label Reversed
