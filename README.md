@@ -32,6 +32,7 @@ Dynamix
 Edo SZ
 Faradisa Script
 Futura
+Futura Lt BT
 Futura T
 Gang of Three
 Georgia
