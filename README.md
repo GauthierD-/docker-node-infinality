@@ -150,6 +150,62 @@ MillerDisplay,MillerDisplay Light
 
 MillerDisplay,MillerDisplay LightItalic
 
+MrEavesXLModNarOT-Bold
+
+MrEavesXLModNarOT-BoldItalic
+
+MrEavesXLModNarOT-Book
+
+MrEavesXLModNarOT-BookItalic
+
+MrEavesXLModNarOT-Heavy
+
+MrEavesXLModNarOT-HeavyItalic
+
+MrEavesXLModNarOT-Light
+
+MrEavesXLModNarOT-LightItalic
+
+MrEavesXLModNarOT-Reg
+
+MrEavesXLModNarOT-RegItalic
+
+MrEavesXLModNarOT-Thin
+
+MrEavesXLModNarOT-ThinItalic
+
+MrEavesXLModNarOT-Ultra
+
+MrEavesXLModNarOT-UltraItalic
+
+MrEavesXLModOT-Bold
+
+MrEavesXLModOT-BoldItalic
+
+MrEavesXLModOT-Book
+
+MrEavesXLModOT-BookItalic
+
+MrEavesXLModOT-Heavy
+
+MrEavesXLModOT-HeavyItalic
+
+MrEavesXLModOT-Light
+
+MrEavesXLModOT-LightItalic
+
+MrEavesXLModOT-Reg
+
+MrEavesXLModOT-RegItalic
+
+MrEavesXLModOT-Thin
+
+MrEavesXLModOT-ThinItalic
+
+MrEavesXLModOT-Ultra
+
+MrEavesXLModOT-UltraItalic
+
 museosansrounded
 
 museosansroundedbold
@@ -163,6 +219,14 @@ OCR A Extended
 Open Sans
 
 Optima LT CYR
+
+Oswald
+
+Oswald Regular
+
+Oswald Stencil
+
+Palatino
 
 PartybyTom
 
