@@ -4,7 +4,7 @@ MAINTAINER Team Reelevant <dev@reelevant.com>
 
 # GD graphics lib
 RUN echo "deb http://httpredir.debian.org/debian stable main contrib" >> /etc/apt/sources.list.d/nonfree.list
-RUN apt-get update && apt-get install -y libgd-dev ttf-mscorefonts-installer
+RUN apt-get update && apt-get install -y libgd-dev ttf-mscorefonts-installer libfontconfig-dev
 
 # fonts 
 RUN echo "deb http://ppa.launchpad.net/no1wantdthisname/ppa/ubuntu trusty main" | tee /etc/apt/sources.list.d/infinality.list && \
