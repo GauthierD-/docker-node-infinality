@@ -1,4 +1,4 @@
-FROM node:10.15.3
+FROM node:12.13.1
 
 MAINTAINER Team Reelevant <dev@reelevant.com>
 
