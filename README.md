@@ -1,6 +1,6 @@
 # node-infinality
 
-Docker image based on node:10.15.3 with [infinality](https://bohoomil.com/) for crisp font rendering.
+Docker image based on node:12-buster with [infinality](https://bohoomil.com/) for crisp font rendering.
 
 ## Available font families
 
